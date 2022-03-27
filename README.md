@@ -1,6 +1,6 @@
 # Smart-Reasturant
 Embedded systems project 
-
+Using C language
 The project contains 7 different Tasks 
 1)Calculating Money
 2)Robot arrive customer to the chosen table
